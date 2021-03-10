@@ -4,7 +4,7 @@ Template für die Einsendeaufgabe "Schiebepuzzle" der Class "Einstieg in React"
 </p>
 
 ## Schiebepuzzle
-*Schiebepuzzle* ist eine Applikation, in dem du browserbasiert ein Schiebpuzzel spielen kannst. Achte bei deinem Vorgehen darauf Tests zu schreiben und testgetrieben zu entwickeln. Diese Template ist der Ausgangspunkt von dem du in die Einsendeaufgabe starten kannst. Tobe dich aus und setzte deiner Kreativität keine Grenzen.
+*Schiebepuzzle* ist eine Applikation, in der du browserbasiert ein Schiebpuzzel spielen kannst. Grundlage dafür bietet die Bibliothek React. Dabei wirst du den Umgang mit Hooks und States vertiefen. Dieses Template ist der Ausgangspunkt, von dem du in die Einsendeaufgabe starten kannst. Tobe dich aus und setzte deiner Kreativität keine Grenzen.
 
 ## Demo
 
